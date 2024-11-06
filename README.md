@@ -1,4 +1,4 @@
-**Project Summary: Decoding Sales Patterns – Strategic Insights from Data**
+**Decoding Sales Patterns – Strategic Insights from Data**
 
 Completed an in-depth analysis of the Superstore Sales dataset (9,800 entries, 17 columns) on Google Colaboratory, exploring customer purchasing behavior by area, town, and commodity type to identify patterns and key sales drivers for strategic decisions. 
 
