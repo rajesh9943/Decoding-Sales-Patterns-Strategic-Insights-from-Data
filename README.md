@@ -1,5 +1,15 @@
-# Decoding-Sales-Patterns-Strategic-Insights-from-Data
-To identify the key drivers of sales and uncover patterns for strategic decision-making. This involves analyzing purchasing behaviour by area, town, and commodity type, while also tracking customer choices over time. Descriptive statistics and time series analysis were used to reveal key sales trends across a four-year period.
+**Project Summary: Decoding Sales Patterns – Strategic Insights from Data**
+
+Completed an in-depth analysis of the Superstore Sales dataset (9,800 entries, 17 columns) on Google Colaboratory, exploring customer purchasing behavior by area, town, and commodity type to identify patterns and key sales drivers for strategic decisions. 
+
+**Key Analysis Steps**  
+- **Univariate Analysis:** Cleaned data, removed 11 null values, and used histograms and box plots to identify outliers and sales distribution by category. Time series plots highlighted trends over four years.
+- **Bivariate Analysis:** Correlation matrix and scatter plots examined relationships across variables, showing category-wise sales trends, regional comparisons, customer segments, and the impact of discounts and shipping modes.
+
+**Overall Insights**  
+- Sales patterns vary significantly across categories, regions, and customer segments.
+- Time series analysis reveals monthly and yearly trends, with notable impacts from discounts and shipping modes.
+- Findings provide valuable insights for strategic decision-making.
 
 ![Black friday sales_page-0001](https://github.com/user-attachments/assets/d747573d-9ce0-4998-b51b-ef0fd2ac2f83)
 ![Black friday sales_page-0002](https://github.com/user-attachments/assets/71bb219e-096a-48c4-af1c-24940ca910f0)
